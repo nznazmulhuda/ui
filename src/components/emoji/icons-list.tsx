@@ -8,7 +8,7 @@ import { Input } from "../form-fields";
 // hooks
 import useFontFaceObserver from "use-font-face-observer";
 // helpers
-import { cn } from "../../helpers";
+import { cn } from "../../../helpers";
 import { DEFAULT_COLORS, TIconsListProps, adjustColorForContrast } from "./emoji-icon-helper";
 
 export const IconsList: React.FC<TIconsListProps> = (props) => {

@@ -2,7 +2,7 @@ import React, { Fragment } from "react";
 // components
 import { Popover } from "./popover";
 // helpers
-import { cn } from "../../helpers";
+import { cn } from "../../../helpers";
 // types
 import { TPopoverMenu } from "./types";
 

@@ -1,7 +1,7 @@
 import React, { forwardRef } from "react";
 import { MoreVertical } from "lucide-react";
 // helpers
-import { cn } from "../helpers";
+import { cn } from "../../helpers";
 
 interface IDragHandle {
   className?: string;

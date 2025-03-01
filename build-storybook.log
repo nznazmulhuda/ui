@@ -1,0 +1,28 @@
+yarn run v1.22.22
+$ storybook build --output-dir=C:\Users\Nazmul\AppData\Local\Temp\chromatic--4644-SQqqVtkFWxlm
+[1m@storybook/core v8.5.3
+[22m
+info => Cleaning outputDir: [36mC:\Users\Nazmul\AppData\Local\Temp\chromatic--4644-SQqqVtkFWxlm[39m
+info => Loading presets
+info => Building manager..
+info => Manager built ([38;2;181;126;229m150 ms[39m)
+info => Building preview..
+WARN No story files found for the specified pattern: [34msrc\**\*.mdx[39m
+info => Using implicit CSS loaders
+info => [[38;2;241;97;140m@storybook/addon-styling-webpack[39m] Applying custom Storybook webpack configuration styling.
+info => Using default Webpack5 setup
+WARN asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+WARN This can impact web performance.
+WARN Assets: 
+WARN   230.eecaa607.iframe.bundle.js (763 KiB)
+WARN   436.b6b63ebf.iframe.bundle.js (872 KiB)
+WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+WARN Entrypoints:
+WARN   main (882 KiB)
+WARN       runtime~main.6a54e617.iframe.bundle.js
+WARN       436.b6b63ebf.iframe.bundle.js
+WARN       main.bc699f62.iframe.bundle.js
+WARN 
+info => Preview built ([38;2;181;126;229m4.25 s[39m)
+info => Output directory: C:\Users\Nazmul\AppData\Local\Temp\chromatic--4644-SQqqVtkFWxlm
+Done in 6.67s.

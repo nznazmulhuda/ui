@@ -1,6 +1,6 @@
 import React, { FC } from "react";
 import { DropdownIcon } from "../icons";
-import { cn } from "../../helpers";
+import { cn } from "../../../helpers";
 
 type Props = {
   isOpen: boolean;

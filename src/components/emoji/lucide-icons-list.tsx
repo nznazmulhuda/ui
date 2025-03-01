@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 // components
 import { Input } from "../form-fields";
 // helpers
-import { cn } from "../../helpers";
+import { cn } from "../../../helpers";
 import { DEFAULT_COLORS, TIconsListProps, adjustColorForContrast } from "./emoji-icon-helper";
 // icons
 import { InfoIcon } from "../icons";

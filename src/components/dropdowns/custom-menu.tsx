@@ -8,7 +8,7 @@ import { useOutsideClickDetector } from "@plane/hooks";
 // hooks
 import { useDropdownKeyDown } from "../hooks/use-dropdown-key-down";
 // helpers
-import { cn } from "../../helpers";
+import { cn } from "../../../helpers";
 // types
 import { ICustomMenuDropdownProps, ICustomMenuItemProps } from "./helper";
 

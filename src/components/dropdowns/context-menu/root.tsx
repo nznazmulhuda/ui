@@ -5,7 +5,7 @@ import { useOutsideClickDetector } from "@plane/hooks";
 // components
 import { ContextMenuItem } from "./item";
 // helpers
-import { cn } from "../../../helpers";
+import { cn } from "../../../../helpers";
 // hooks
 import { usePlatformOS } from "../../hooks/use-platform-os";
 

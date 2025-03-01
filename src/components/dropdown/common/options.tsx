@@ -6,7 +6,7 @@ import { Check } from "lucide-react";
 // components
 import { DropdownOptionsLoader, InputSearch } from ".";
 // helpers
-import { cn } from "../../../helpers";
+import { cn } from "../../../../helpers";
 // types
 import { IMultiSelectDropdownOptions, ISingleSelectDropdownOptions } from "../dropdown";
 

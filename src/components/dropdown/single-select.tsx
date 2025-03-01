@@ -12,7 +12,7 @@ import { DropdownOptions } from "./common/options";
 // hooks
 import { useDropdownKeyPressed } from "../hooks/use-dropdown-key-pressed";
 // helper
-import { cn } from "../../helpers";
+import { cn } from "../../../helpers";
 // types
 import { ISingleSelectDropdown } from "./dropdown";
 

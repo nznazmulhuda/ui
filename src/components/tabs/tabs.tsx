@@ -3,7 +3,7 @@ import { Tab } from "@headlessui/react";
 import { LucideProps } from "lucide-react";
 // helpers
 import { useLocalStorage } from "@plane/hooks";
-import { cn } from "../../helpers";
+import { cn } from "../../../helpers";
 
 type TabItem = {
   key: string;
